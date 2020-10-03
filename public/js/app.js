@@ -1,5 +1,3 @@
-console.log('Client side javascript file is loaded!')
-
 //fetch data from url, then run the function
 //
 
